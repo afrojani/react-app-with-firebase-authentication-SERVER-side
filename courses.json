@@ -1,0 +1,50 @@
+[
+    {
+        "id": "C33B8CB0-93B6-B81B-065A-762425E99904",
+        "name": "C++",
+        "title": "C++ Beginner to Advance",
+        "body": "C++ is a high-level general-purpose programming language created by Danish computer scientist Bjarne Stroustrup as an extension of the C programming language, or 'C with Classes'",
+        "image_url": "https://ibb.co/KmCkjnH",
+        "time": "21 hr"
+    },
+    {
+        "id": "A654D56E-6EA6-FB8B-2B4E-817B633B1CC2",
+        "name": "Java",
+        "title": "Java Zero to Hero",
+        "body": "Java is a programming language and computing platform first released by Sun Microsystems in 1995. It has evolved from humble beginnings to power a large share of today's digital world, by providing the reliable platform upon which many services and applications are built.",
+        "image_url": "https://ibb.co/cF3fDTF",
+        "time": "11 hr"
+    },
+    {
+        "id": "0C25BF35-D42D-5641-1B4E-7647CBBEC24B",
+        "name": "Python",
+        "title": "Master in Python",
+        "body": "Python is commonly used for developing websites and software, task automation, data analysis, and data visualization. Since it's relatively easy to learn, Python has been adopted by many non-programmers such as accountants and scientists, for a variety of everyday tasks, like organizing finances.",
+        "image_url": "https://ibb.co/3FT0LMW",
+        "time": "3 hr"
+    },
+    {
+        "id": "9BB73FD2-03F3-E5A3-DA1B-D87E3719730E",
+        "name": "JavaScript",
+        "title": "Advance JavaScript for web development",
+        "body": "JavaScript, often abbreviated as JS, is a programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS. As of 2022, 98% of websites use JavaScript on the client side for webpage behavior, often incorporating third-party libraries",
+        "image_url": "https://ibb.co/JtwjD7D",
+        "time": "9 hr"
+    },
+    {
+        "id": "06B98344-1141-8B82-C2BC-EAECBBEA02D4",
+        "name": "Machine Learning",
+        "title": "Machine Learning for the beginners",
+        "body": "Machine learning is a branch of artificial intelligence (AI) and computer science which focuses on the use of data and algorithms to imitate the way that humans learn, gradually improving its accuracy.",
+        "image_url": "https://ibb.co/dpnB0fV",
+        "time": "7 hr"
+    },
+    {
+        "id": "06B98344-1141-8B82-C2BC-EAEEEBEA02D4",
+        "name": " Deep Learning",
+        "title": "Deep Learning for the beginners",
+        "body": "Deep learning is a subset of machine learning, which is essentially a neural network with three or more layers. These neural networks attempt to simulate the behavior of the human brain—albeit far from matching its ability—allowing it to “learn” from large amounts of data.",
+        "image_url": "https://ibb.co/12KPdrC",
+        "time": "7 hr"
+    }
+]
