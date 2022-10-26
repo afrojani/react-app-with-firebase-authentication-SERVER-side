@@ -4,7 +4,7 @@
         "name": "C++",
         "title": "C++ Beginner to Advance",
         "body": "C++ is a high-level general-purpose programming language created by Danish computer scientist Bjarne Stroustrup as an extension of the C programming language, or 'C with Classes'",
-        "image_url": "https://ibb.co/KmCkjnH",
+        "image_url": "https://res.cloudinary.com/practicaldev/image/fetch/s--BbBxREeP--/c_imagga_scale,f_auto,fl_progressive,h_720,q_auto,w_1280/https://dev-to-uploads.s3.amazonaws.com/i/h2917prj7ldo0ow5x5ih.png",
         "time": "21 hr"
     },
     {
@@ -12,7 +12,7 @@
         "name": "Java",
         "title": "Java Zero to Hero",
         "body": "Java is a programming language and computing platform first released by Sun Microsystems in 1995. It has evolved from humble beginnings to power a large share of today's digital world, by providing the reliable platform upon which many services and applications are built.",
-        "image_url": "https://ibb.co/cF3fDTF",
+        "image_url": "https://developers.redhat.com/sites/default/files/styles/article_feature/public/ST-java1_1x%20%281%29.png?itok=HSEPV0HL",
         "time": "11 hr"
     },
     {
@@ -20,7 +20,7 @@
         "name": "Python",
         "title": "Master in Python",
         "body": "Python is commonly used for developing websites and software, task automation, data analysis, and data visualization. Since it's relatively easy to learn, Python has been adopted by many non-programmers such as accountants and scientists, for a variety of everyday tasks, like organizing finances.",
-        "image_url": "https://ibb.co/3FT0LMW",
+        "image_url": "https://files.realpython.com/media/python-basics-wide2.f73a9e9bf9b8.jpg",
         "time": "3 hr"
     },
     {
@@ -28,7 +28,7 @@
         "name": "JavaScript",
         "title": "Advance JavaScript for web development",
         "body": "JavaScript, often abbreviated as JS, is a programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS. As of 2022, 98% of websites use JavaScript on the client side for webpage behavior, often incorporating third-party libraries",
-        "image_url": "https://ibb.co/JtwjD7D",
+        "image_url": "https://www.w3docs.com/uploads/media/default/0001/05/4482fe09d95a0be765154b9cefff5e07f7fc32ff.png",
         "time": "9 hr"
     },
     {
@@ -36,7 +36,7 @@
         "name": "Machine Learning",
         "title": "Machine Learning for the beginners",
         "body": "Machine learning is a branch of artificial intelligence (AI) and computer science which focuses on the use of data and algorithms to imitate the way that humans learn, gradually improving its accuracy.",
-        "image_url": "https://ibb.co/dpnB0fV",
+        "image_url": "https://miro.medium.com/max/1400/1*cG6U1qstYDijh9bPL42e-Q.jpeg",
         "time": "7 hr"
     },
     {
@@ -44,7 +44,7 @@
         "name": " Deep Learning",
         "title": "Deep Learning for the beginners",
         "body": "Deep learning is a subset of machine learning, which is essentially a neural network with three or more layers. These neural networks attempt to simulate the behavior of the human brain—albeit far from matching its ability—allowing it to “learn” from large amounts of data.",
-        "image_url": "https://ibb.co/12KPdrC",
+        "image_url": "https://miro.medium.com/max/1024/0*6XnccoRFvqi4GkXu.jpeg",
         "time": "7 hr"
     }
 ]
