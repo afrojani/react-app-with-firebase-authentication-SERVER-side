@@ -20,6 +20,11 @@ app.get('/courses/:id', (req, res) => {
     const selectCourse = courses.find(c => c.id === id);
     res.send(selectCourse);
 })
+app.get('/premium/:id', (req, res) => {
+    const id = req.params.id;
+    const selectCourse = courses.find(c => c.id === id);
+    res.send(selectCourse);
+})
 
 app.listen(port, () => {
     console.log('courses server running on port', port);
